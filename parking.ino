@@ -7,8 +7,8 @@
 #include <WiFiUdp.h>
 
 // Informacoes do WIFI
-const char* ssid = "Buffalo-G-12C8";
-const char* password = "3b6hcpdfm4wsp";
+const char* ssid = "xxxx";
+const char* password = "xxxx";
 
 WiFiUDP ntpUDP;
 NTPClient timeClient(ntpUDP, "pool.ntp.org");
